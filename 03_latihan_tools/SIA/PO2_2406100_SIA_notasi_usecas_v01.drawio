@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="qyp-IH8EekuDBrIw6vyS" name="Page-1">
+        <mxGraphModel dx="70" dy="61" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="tCYqCUOTe55J1KozeOER-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem informasi akademik&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="480" width="450" x="190" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-19" edge="1" parent="tCYqCUOTe55J1KozeOER-1" source="tCYqCUOTe55J1KozeOER-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;" target="tCYqCUOTe55J1KozeOER-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-2" parent="tCYqCUOTe55J1KozeOER-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="mahasiswa" vertex="1">
+                    <mxGeometry height="60" width="30" x="45" y="95" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-7" parent="tCYqCUOTe55J1KozeOER-1" style="html=1;dashed=0;whiteSpace=wrap;" value="lihat jadwal kuliah" vertex="1">
+                    <mxGeometry height="50" width="100" x="140" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-6" parent="tCYqCUOTe55J1KozeOER-1" style="html=1;dashed=0;whiteSpace=wrap;" value="lihat jadwal kuliah" vertex="1">
+                    <mxGeometry height="50" width="100" x="320" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-18" edge="1" parent="tCYqCUOTe55J1KozeOER-1" source="tCYqCUOTe55J1KozeOER-9" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;" target="tCYqCUOTe55J1KozeOER-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tCYqCUOTe55J1KozeOER-9" parent="tCYqCUOTe55J1KozeOER-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="atmin" vertex="1">
+                    <mxGeometry height="60" width="30" x="355" y="250" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
