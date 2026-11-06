@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="_elMq-38mSedTw83hJUk" name="SIA-UC07">
-        <mxGraphModel dx="867" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="851" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -74,7 +74,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="OkjmmUp7CKTQhCFFk_7f" name="SIA-UC08">
-        <mxGraphModel dx="809" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="888" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="9OVZlyL2QsDbUMmENoqf-0"/>
                 <mxCell id="9OVZlyL2QsDbUMmENoqf-1" parent="9OVZlyL2QsDbUMmENoqf-0"/>
@@ -150,7 +150,7 @@
                 <mxCell id="LPBXFEm7NqKjVyLVfJaX-24" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Alternative" vertex="1">
                     <mxGeometry height="28" width="810" x="600" y="538" as="geometry"/>
                 </mxCell>
-                <mxCell id="LPBXFEm7NqKjVyLVfJaX-25" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="7. Nilai di luar rentang yang sah dimasukkan (cabang dari langkah 4)[cite: 17]" vertex="1">
+                <mxCell id="LPBXFEm7NqKjVyLVfJaX-25" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="7. Nilai di luar rentang yang sah dimasukkan (cabang dari langkah 4)." vertex="1">
                     <mxGeometry height="32" width="405" x="600" y="566" as="geometry"/>
                 </mxCell>
                 <mxCell id="LPBXFEm7NqKjVyLVfJaX-26" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
@@ -159,20 +159,20 @@
                 <mxCell id="LPBXFEm7NqKjVyLVfJaX-27" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
                     <mxGeometry height="32" width="405" x="600" y="598" as="geometry"/>
                 </mxCell>
-                <mxCell id="LPBXFEm7NqKjVyLVfJaX-28" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="8. Sistem menolak penyimpanan dan menampilkan pesan kesalahan rentang nilai[cite: 17]" vertex="1">
+                <mxCell id="LPBXFEm7NqKjVyLVfJaX-28" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="8. Sistem menolak penyimpanan dan menampilkan pesan kesalahan rentang nilai." vertex="1">
                     <mxGeometry height="32" width="405" x="1005" y="598" as="geometry"/>
                 </mxCell>
                 <mxCell id="LPBXFEm7NqKjVyLVfJaX-29" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Akhir" vertex="1">
                     <mxGeometry height="44" width="170" x="600" y="630" as="geometry"/>
                 </mxCell>
-                <mxCell id="LPBXFEm7NqKjVyLVfJaX-30" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika nilai mata kuliah berhasil tersimpan; jika nilai di luar rentang yang sah, data tidak tersimpan dan diminta perbaikan[cite: 17]." vertex="1">
+                <mxCell id="LPBXFEm7NqKjVyLVfJaX-30" parent="9OVZlyL2QsDbUMmENoqf-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika nilai mata kuliah berhasil tersimpan; jika nilai di luar rentang yang sah, data tidak tersimpan dan diminta perbaikan." vertex="1">
                     <mxGeometry height="44" width="640" x="770" y="630" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="LQwA3gCZJSQE0nrUxgNq" name="SIA-UC09">
-        <mxGraphModel dx="971" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="888" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="UGh_-2AaTOpJaUosH7YB-0"/>
                 <mxCell id="UGh_-2AaTOpJaUosH7YB-1" parent="UGh_-2AaTOpJaUosH7YB-0"/>
@@ -197,7 +197,7 @@
                 <mxCell id="Bp4n2AdZEd1RF0kriell-7" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Deskripsi" vertex="1">
                     <mxGeometry height="44" width="170" x="320" y="266" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bp4n2AdZEd1RF0kriell-8" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Mahasiswa membuka fungsi KHS dan melihat daftar nilai mata kuliah yang sudah dipublikasikan[cite: 17]." vertex="1">
+                <mxCell id="Bp4n2AdZEd1RF0kriell-8" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Mahasiswa membuka fungsi KHS dan melihat daftar nilai mata kuliah yang sudah dipublikasikan." vertex="1">
                     <mxGeometry height="44" width="640" x="490" y="266" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bp4n2AdZEd1RF0kriell-9" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Kegiatan" vertex="1">
@@ -218,7 +218,7 @@
                 <mxCell id="Bp4n2AdZEd1RF0kriell-14" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
                     <mxGeometry height="32" width="405" x="320" y="398" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bp4n2AdZEd1RF0kriell-15" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="2. Sistem memeriksa dan menampilkan hanya nilai yang sudah dipublikasikan pada semester tersebut[cite: 17]" vertex="1">
+                <mxCell id="Bp4n2AdZEd1RF0kriell-15" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="2. Sistem memeriksa dan menampilkan hanya nilai yang sudah dipublikasikan pada semester tersebut." vertex="1">
                     <mxGeometry height="32" width="405" x="725" y="398" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bp4n2AdZEd1RF0kriell-16" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Alternative" vertex="1">
@@ -239,14 +239,14 @@
                 <mxCell id="Bp4n2AdZEd1RF0kriell-21" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Akhir" vertex="1">
                     <mxGeometry height="44" width="170" x="320" y="522" as="geometry"/>
                 </mxCell>
-                <mxCell id="Bp4n2AdZEd1RF0kriell-22" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika KHS dengan nilai yang sudah dipublikasikan berhasil ditampilkan; jika belum ada nilai, tampil pesan informasi[cite: 17]." vertex="1">
+                <mxCell id="Bp4n2AdZEd1RF0kriell-22" parent="UGh_-2AaTOpJaUosH7YB-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika KHS dengan nilai yang sudah dipublikasikan berhasil ditampilkan; jika belum ada nilai, tampil pesan informasi." vertex="1">
                     <mxGeometry height="44" width="640" x="490" y="522" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="WeIl4gW_m5WBLctzG9vh" name="SIA-UC010">
-        <mxGraphModel dx="1025" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="851" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="2a7l8n3r6flO_3zsMNE7-0"/>
                 <mxCell id="2a7l8n3r6flO_3zsMNE7-1" parent="2a7l8n3r6flO_3zsMNE7-0"/>
@@ -271,7 +271,7 @@
                 <mxCell id="Q2ZgsZnfQ-BmcOzXTk-c-7" parent="2a7l8n3r6flO_3zsMNE7-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Deskripsi" vertex="1">
                     <mxGeometry height="44" width="170" x="360" y="426" as="geometry"/>
                 </mxCell>
-                <mxCell id="Q2ZgsZnfQ-BmcOzXTk-c-8" parent="2a7l8n3r6flO_3zsMNE7-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik membuka fungsi pengelolaan data mahasiswa, memilih bentuk pengelolaan, dan menyimpan perubahan. Langkah bersama dirujuk oleh UC11, UC12, dan UC13[cite: 17]." vertex="1">
+                <mxCell id="Q2ZgsZnfQ-BmcOzXTk-c-8" parent="2a7l8n3r6flO_3zsMNE7-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik membuka fungsi pengelolaan data mahasiswa, memilih bentuk pengelolaan, dan menyimpan perubahan. Langkah bersama dirujuk oleh UC11, UC12, dan UC13." vertex="1">
                     <mxGeometry height="44" width="640" x="530" y="426" as="geometry"/>
                 </mxCell>
                 <mxCell id="Q2ZgsZnfQ-BmcOzXTk-c-9" parent="2a7l8n3r6flO_3zsMNE7-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Kegiatan" vertex="1">
@@ -356,7 +356,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="XorgGDWjeISC-nIu4-i5" name="SIA-UC011">
-        <mxGraphModel dx="1071" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="UZK8FZrSz_YtQSoJalzb-0"/>
                 <mxCell id="UZK8FZrSz_YtQSoJalzb-1" parent="UZK8FZrSz_YtQSoJalzb-0"/>
@@ -375,13 +375,13 @@
                 <mxCell id="7ZvwfL8n059LaUKUUJss-5" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Tujuan" vertex="1">
                     <mxGeometry height="32" width="170" x="470" y="294" as="geometry"/>
                 </mxCell>
-                <mxCell id="7ZvwfL8n059LaUKUUJss-6" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa baru tersimpan sebagai bentuk khusus dari pengelolaan data mahasiswa[cite: 17]" vertex="1">
-                    <mxGeometry height="32" width="640" x="640" y="294" as="geometry"/>
+                <mxCell id="7ZvwfL8n059LaUKUUJss-6" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa baru tersimpan sebagai bentuk khusus dari pengelolaan data mahasiswa." vertex="1">
+                    <mxGeometry height="32" width="640" x="642" y="294" as="geometry"/>
                 </mxCell>
                 <mxCell id="7ZvwfL8n059LaUKUUJss-7" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Deskripsi" vertex="1">
                     <mxGeometry height="44" width="170" x="470" y="326" as="geometry"/>
                 </mxCell>
-                <mxCell id="7ZvwfL8n059LaUKUUJss-8" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik mengisi data mahasiswa baru dan menyimpan data tersebut; langkah bersama mengikuti Tabel skenario SIA-UC10[cite: 12, 17]." vertex="1">
+                <mxCell id="7ZvwfL8n059LaUKUUJss-8" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik mengisi data mahasiswa baru dan menyimpan data tersebut; langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
                     <mxGeometry height="44" width="640" x="640" y="326" as="geometry"/>
                 </mxCell>
                 <mxCell id="7ZvwfL8n059LaUKUUJss-9" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Kegiatan" vertex="1">
@@ -447,14 +447,14 @@
                 <mxCell id="7ZvwfL8n059LaUKUUJss-29" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Akhir" vertex="1">
                     <mxGeometry height="44" width="170" x="470" y="710" as="geometry"/>
                 </mxCell>
-                <mxCell id="7ZvwfL8n059LaUKUUJss-30" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika data mahasiswa baru tersimpan; jika data tidak lengkap, data tidak tersimpan[cite: 12]." vertex="1">
+                <mxCell id="7ZvwfL8n059LaUKUUJss-30" parent="UZK8FZrSz_YtQSoJalzb-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika data mahasiswa baru tersimpan; jika data tidak lengkap, data tidak tersimpan." vertex="1">
                     <mxGeometry height="44" width="640" x="640" y="710" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="khfxakxzZ4-XE3-7iTau" name="SIA-UC012">
-        <mxGraphModel dx="867" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="851" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="DPVt2PPCmsWwtd0CveCL-0"/>
                 <mxCell id="DPVt2PPCmsWwtd0CveCL-1" parent="DPVt2PPCmsWwtd0CveCL-0"/>
@@ -473,13 +473,13 @@
                 <mxCell id="g9FgmISmazs9mOn33dzV-5" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Tujuan" vertex="1">
                     <mxGeometry height="32" width="170" x="260" y="254" as="geometry"/>
                 </mxCell>
-                <mxCell id="g9FgmISmazs9mOn33dzV-6" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa berubah sebagai bentuk khusus dari pengelolaan data mahasiswa[cite: 17]" vertex="1">
+                <mxCell id="g9FgmISmazs9mOn33dzV-6" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa berubah sebagai bentuk khusus dari pengelolaan data mahasiswa." vertex="1">
                     <mxGeometry height="32" width="640" x="430" y="254" as="geometry"/>
                 </mxCell>
                 <mxCell id="g9FgmISmazs9mOn33dzV-7" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Deskripsi" vertex="1">
                     <mxGeometry height="44" width="170" x="260" y="286" as="geometry"/>
                 </mxCell>
-                <mxCell id="g9FgmISmazs9mOn33dzV-8" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik memilih data mahasiswa, mengubah datanya, dan menyimpan perubahan; langkah bersama mengikuti Tabel skenario SIA-UC10[cite: 13, 17]." vertex="1">
+                <mxCell id="g9FgmISmazs9mOn33dzV-8" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik memilih data mahasiswa, mengubah datanya, dan menyimpan perubahan; langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
                     <mxGeometry height="44" width="640" x="430" y="286" as="geometry"/>
                 </mxCell>
                 <mxCell id="g9FgmISmazs9mOn33dzV-9" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Kegiatan" vertex="1">
@@ -545,14 +545,14 @@
                 <mxCell id="g9FgmISmazs9mOn33dzV-29" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Akhir" vertex="1">
                     <mxGeometry height="44" width="170" x="260" y="670" as="geometry"/>
                 </mxCell>
-                <mxCell id="g9FgmISmazs9mOn33dzV-30" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika perubahan data mahasiswa tersimpan; jika data tidak ditemukan, perubahan tidak tersimpan[cite: 13]." vertex="1">
+                <mxCell id="g9FgmISmazs9mOn33dzV-30" parent="DPVt2PPCmsWwtd0CveCL-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika perubahan data mahasiswa tersimpan; jika data tidak ditemukan, perubahan tidak tersimpan." vertex="1">
                     <mxGeometry height="44" width="640" x="430" y="670" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="CxdTLB14uR_8usuRk6Sd" name="SIA-UC013">
-        <mxGraphModel dx="1071" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="851" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="YziUl0iFSipNYMInWn_o-0"/>
                 <mxCell id="YziUl0iFSipNYMInWn_o-1" parent="YziUl0iFSipNYMInWn_o-0"/>
@@ -571,13 +571,13 @@
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-5" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Tujuan" vertex="1">
                     <mxGeometry height="32" width="170" x="390" y="314" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-6" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa terhapus sebagai bentuk khusus dari pengelolaan data mahasiswa[cite: 17]" vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-6" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Data mahasiswa terhapus sebagai bentuk khusus dari pengelolaan data mahasiswa" vertex="1">
                     <mxGeometry height="32" width="640" x="560" y="314" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-7" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Deskripsi" vertex="1">
                     <mxGeometry height="44" width="170" x="390" y="346" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-8" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik memilih data mahasiswa, mengonfirmasi penghapusan, dan sistem menghapus data tersebut; langkah bersama mengikuti Tabel skenario SIA-UC10[cite: 13, 17]." vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-8" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Admin akademik memilih data mahasiswa, mengonfirmasi penghapusan, dan sistem menghapus data tersebut; langkah bersama mengikuti Tabel skenario SIA-UC10." vertex="1">
                     <mxGeometry height="44" width="640" x="560" y="346" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-9" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Kegiatan" vertex="1">
@@ -598,7 +598,7 @@
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-14" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
                     <mxGeometry height="32" width="405" x="390" y="478" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-15" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="2. Sistem memeriksa mahasiswa tidak memiliki data akademik aktif[cite: 17]" vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-15" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="2. Sistem memeriksa mahasiswa tidak memiliki data akademik aktif" vertex="1">
                     <mxGeometry height="32" width="405" x="795" y="478" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-16" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="3. Admin Akademik mengonfirmasi penghapusan" vertex="1">
@@ -610,13 +610,13 @@
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-18" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
                     <mxGeometry height="32" width="405" x="390" y="542" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-19" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="4. Sistem menghapus data mahasiswa dan menampilkan konfirmasi penghapusan[cite: 13]" vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-19" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="4. Sistem menghapus data mahasiswa dan menampilkan konfirmasi penghapusan" vertex="1">
                     <mxGeometry height="32" width="405" x="795" y="542" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-20" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Alternative" vertex="1">
                     <mxGeometry height="28" width="810" x="390" y="574" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-21" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="5. Mahasiswa memiliki data akademik aktif (cabang dari langkah 2)[cite: 13, 17]" vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-21" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="5. Mahasiswa memiliki data akademik aktif (cabang dari langkah 2)" vertex="1">
                     <mxGeometry height="32" width="405" x="390" y="602" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-22" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
@@ -625,13 +625,13 @@
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-23" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="" vertex="1">
                     <mxGeometry height="32" width="405" x="390" y="634" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-24" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="6. Sistem menolak penghapusan dan menampilkan pesan mahasiswa masih memiliki data akademik aktif[cite: 13]" vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-24" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="6. Sistem menolak penghapusan dan menampilkan pesan mahasiswa masih memiliki data akademik aktif" vertex="1">
                     <mxGeometry height="32" width="405" x="795" y="634" as="geometry"/>
                 </mxCell>
                 <mxCell id="T-mUnE5bDIBFzqsa8TFM-25" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Skenario Akhir" vertex="1">
                     <mxGeometry height="44" width="170" x="390" y="666" as="geometry"/>
                 </mxCell>
-                <mxCell id="T-mUnE5bDIBFzqsa8TFM-26" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika data mahasiswa terhapus; jika mahasiswa memiliki data akademik aktif, data tidak terhapus[cite: 13]." vertex="1">
+                <mxCell id="T-mUnE5bDIBFzqsa8TFM-26" parent="YziUl0iFSipNYMInWn_o-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;fontSize=12;strokeColor=#333333;fillColor=#ffffff;" value="Use case selesai jika data mahasiswa terhapus; jika mahasiswa memiliki data akademik aktif, data tidak terhapus." vertex="1">
                     <mxGeometry height="44" width="640" x="560" y="666" as="geometry"/>
                 </mxCell>
             </root>
