@@ -4,7 +4,7 @@ Pertemuan         : 1
 Sumber skenario   : modul
 Jenis/status      : latihan 
 Kakas             : draw.io
-Pembuat           : 2406100 kaka
+Pembuat           : 2406100 kaka riscky ardhiana
 Versi dan tanggal : v01 30-09-2026
 Asumsi/pertanyaan : -
 Pemeriksaan       : -
